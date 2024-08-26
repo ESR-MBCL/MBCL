@@ -4,14 +4,15 @@
 
 Our mission is to inclusively and openly answer climate questions about Mount Baker relevant to local and regional communities. 
 
+![MBCL_Overview](./images/MBCLprojectOverview.png "MBCL Overview")
+
 ### What is the MBCL?
 
 This is a collaborative project in which citizen scientists and professional scientists co-create understanding about the climate of Mount Baker using a combination of *in situ* and satelitte measurements. We ask provide data and ask questions relevant to the hydrologic health and welfare of this important environmental system. 
 
 #### How does the MBCL work?
 
-The MBCL is a result of ongoing partnerships between several organizations (Table 1). Its foundation comes from ongoing measurements of temperature at nine sites along the southern ascent of Mount Baker. These temperature measurements are made in distributed arrays from which we can derive much more than simply an understanding of local temperature patterns and trends. 
-
+The MBCL is a result of ongoing partnerships between several organizations (Table 1). Its foundation comes from ongoing measurements of temperature at nine sites along the southern ascent of Mount Baker. These temperature measurements are made in distributed arrays from which we can derive much more than simply an understanding of local temperature patterns and trends. The arrays of temperature 
 
 
 
