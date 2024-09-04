@@ -30,7 +30,7 @@ The MBCL is a result of ongoing partnerships between several organizations (Tabl
 
 | Name | Institution | Role | Contribution | Contact |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Sky Gale | University of Washington | Professional Scientist  |  | |
+| Sky Gale | University of Washington | Professional Scientist  |  Lapse rate investigations | skycgale@uw.edu |
 | Daniel Howard | NCAR | Professional Scientist |   | |
 | Susan Howard | Earth and Space Research  | Professional Scientist  |  | |
 | Miles Lamble | Lakeside School | Citizen Scientist |  | |
