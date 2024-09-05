@@ -31,7 +31,7 @@ The MBCL is a result of ongoing partnerships between several organizations (Tabl
 | Name | Institution | Role | Contribution | Contact |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Sky Gale | University of Washington | Professional Scientist  |  Lapse rate investigations | skycgale@uw.edu |
-| Daniel Howard | NCAR | Professional Scientist |   | |
+| Daniel Howard | NCAR | Professional Scientist | Lapse rate investigation  | dhoward@ucar.edu |
 | Susan Howard | Earth and Space Research  | Professional Scientist  |  | |
 | Miles Lamble | Lakeside School | Citizen Scientist |  | |
 | C. Max Stevens | University of Maryland | Professional Scientist |  | |
@@ -39,4 +39,15 @@ The MBCL is a result of ongoing partnerships between several organizations (Tabl
 | firstname lastname | stuff | stuff | Team Member  | |
 
 ### Land Acknowledgement
+We respectfully acknowledge that we learn, live, reflect, teach, and observe on the
+ancestral homelands of Tribes, Bands, and First Nations, including Coast Salish, Lower
+Skagit, and Upper Skagit.
 
+We would like to express respect and gratitude for our Indigenous neighbors for their
+care and protection of our shared lands and waterways and celebrate the resilience and
+strength that Indigenous peoples have shown and continue to show.
+
+To acknowledge this land we share, study, and value is to critically reflect on a history that includes disease,
+displacement, violence, and loss of land, and to recognize our place in that history.
+We offer this acknowledgement as an important step in honoring the relationship with land we
+share, and a call towards further learning and action.
