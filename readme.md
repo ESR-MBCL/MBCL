@@ -35,10 +35,10 @@ The MBCL is a result of ongoing partnerships between several organizations (Tabl
 | Susan Howard | Earth and Space Research  | Professional Scientist  | ICESat2 | showard@esr.edu |
 | Miles L | Lakeside School | Citizen Scientist | Lapse rate/ML investigation| MilesL25@lakesideschool.org |
 | C. Max Stevens | University of Maryland | Professional Scientist | ICESat2 | maxstev@umd.edu |
-| Michael (Mike) Town | Professional Scientist | Professional Scientist | Project Lead | michael.town@esr.org |
-| Felicity W | Citizen Scientist | Lapse rate investigation/Ecosystem health | felicityw26@lakesideschool.org |
+| Michael (Mike) Town | Earth and Space Research | Professional Scientist | Project Lead | michael.town@esr.org |
+| Felicity W | Lakeside School/Earth and Space Research | Citizen Scientist | Lapse rate investigation/Ecosystem health | felicityw26@lakesideschool.org |
 | firstname lastname | stuff | stuff | Team Member  | |
-
+1
 ### Land Acknowledgement
 We respectfully acknowledge that we learn, live, reflect, teach, and observe on the
 ancestral homelands of Tribes, Bands, and First Nations, including Coast Salish, Lower
