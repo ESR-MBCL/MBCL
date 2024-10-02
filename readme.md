@@ -37,8 +37,13 @@ The MBCL is a result of ongoing partnerships between several organizations (Tabl
 | C. Max Stevens | University of Maryland | Professional Scientist | ICESat2 | maxstev@umd.edu |
 | Michael (Mike) Town | Earth and Space Research | Professional Scientist | Project Lead | michael.town@esr.org |
 | Felicity W | Lakeside School/Earth and Space Research | Citizen Scientist | Lapse rate investigation/Ecosystem health | felicityw26@lakesideschool.org |
-| firstname lastname | stuff | stuff | Team Member  | |
-1
+
+### Questions We are Asking
+1. How can we use Mt. Baker lapse rates to study changes in the ecosystem?
+
+### Interested in Contributing
+If you are interested in contributing or have any questions, please reach out to michael.town@esr.org.
+
 ### Land Acknowledgement
 We respectfully acknowledge that we learn, live, reflect, teach, and observe on the
 ancestral homelands of Tribes, Bands, and First Nations, including Coast Salish, Lower
