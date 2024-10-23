@@ -34,12 +34,18 @@ The MBCL is a result of ongoing partnerships between several organizations (Tabl
 | Daniel Howard | NCAR | Professional Scientist | Lapse rate investigation  | dhoward@ucar.edu |
 | Susan Howard | Earth and Space Research  | Professional Scientist  | ICESat2 | showard@esr.edu |
 | Miles L | Lakeside School | Citizen Scientist | Lapse rate/ML investigation| MilesL25@lakesideschool.org |
+| Jeffrey Spencer | Region of Education #17 | Scientist/Educator | Sensor Deployment/Citizen Science | spencerj@roe17.org |
 | C. Max Stevens | University of Maryland | Professional Scientist | ICESat2 | maxstev@umd.edu |
 | Michael (Mike) Town | Earth and Space Research | Professional Scientist | Project Lead | michael.town@esr.org |
 | Felicity W | Lakeside School/Earth and Space Research | Citizen Scientist | Lapse rate investigation/Ecosystem health | felicityw26@lakesideschool.org |
 
-### Questions We are Asking
-1. How can we use Mt. Baker lapse rates to study changes in the ecosystem?
+### Questions We are Asking (please help us ask more!)
+1. How can we use Mount Baker lapse rates to study changes in the ecosystem?
+2. What is the seasonal snow extent on Mount Baker?
+3. What is the seasonal snow height at Schriebers Meadow, on Mount Baker? 
+
+### Interactive Data
+Take a look at the [interactive data](./data/readme.md) we have curated so far. Inspired? Read on!
 
 ### Interested in Contributing
 If you are interested in contributing or have any questions, please reach out to michael.town@esr.org.
