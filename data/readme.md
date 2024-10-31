@@ -2,7 +2,7 @@
 
 | Site | iButton Description | image | Graph |
 |-----|-----|-----|-----|
-| 1 | Buried | image | Graph | 
+| 1 | [Buried](./figures/html/1_buried/1_buried.html) | image | Graph | 
 | 1 | Exposed 50 | image | 2018 | 
 | 1 | Exposed 100 | image | 2018 | 
 | 1 | Exposed 150 | image | 2018 | 
@@ -23,5 +23,3 @@
 | 7 | Buried | image | 2018 | 
 | 8 | Buried | image | 2018 | 
 | 9 | Buried | image | 2018 |
-
-![iButton1](./figures/html/1_buried/1_buried.html "iButton1")
