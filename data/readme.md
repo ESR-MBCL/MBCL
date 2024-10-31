@@ -1,7 +1,7 @@
 # MBCL data by site location
 
-| Site | iButton Description | image | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 
-|---|---|---|---|
+| Site | iButton Description | image | Graph |
+|-----|-----|-----|-----|
 | 1 | Buried | image | Graph | 
 | 1 | Exposed 50 | image | 2018 | 
 | 1 | Exposed 100 | image | 2018 | 
