@@ -40,9 +40,14 @@ The MBCL is a result of ongoing partnerships between several organizations (Tabl
 | Felicity W | Lakeside School/Earth and Space Research | Citizen Scientist | Lapse rate investigation/Ecosystem health | felicityw26@lakesideschool.org |
 
 ### Questions We are Asking (please help us ask more!)
-1. How can we use Mount Baker lapse rates to study changes in the ecosystem?
-2. What is the seasonal snow extent on Mount Baker?
-3. What is the seasonal snow height at Schriebers Meadow, on Mount Baker? 
+- What are Mount Baker temperatures and lapse rates?
+  - Are important ecosystem thresholds being reached?
+  - How have the lapse rates changed over time?
+  - How are these variables represented in Reanalysis or other products?
+- What is the seasonal snow extent on Mount Baker?
+  - Does this change interannually?
+- What is the seasonal snow height at Schriebers Meadow, on Mount Baker?
+  - Can we connect this seasonal snow height to other more long-term measurements (e.g., regional SNOTEL stations)?  
 
 ### Interactive Data
 Take a look at the [interactive data](./data/readme.md) we have curated so far. Inspired? Read on!
