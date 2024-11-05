@@ -1,7 +1,7 @@
 # MBCL data by site location
 
 | Site | iButton Description/link to data | image |
-|-----|-----|-----|-----|
+|-----|-----|-----|
 | 1 | [Buried](./figures/felicityHtml/1_buried/iButton1.html) | image | 
 | 1 | [Exposed 50](./figures/html/1_exposed_050/1_exposed_050.html) | image | 
 | 1 | [Exposed 100](./figures/html/1_exposed_100/1_exposed_100.html) | image | 
