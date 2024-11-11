@@ -22,22 +22,14 @@ The MBCL is a result of ongoing partnerships between several organizations (Tabl
 | ------------- | ------------- |
 | Adventure Data | *In situ* snow measurements |
 | Earth and Space Research | Lead institution, data analysis, citizen scientist education |
+| Lakeside School | *In situ* temperature measurement deployment and collection | 
  
 
 
 
 ### Contributors
 
-| Name | Institution | Role | Contribution | Contact |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Sky Gale | University of Washington | Professional Scientist  |  Lapse rate investigations | skycgale@uw.edu |
-| Daniel Howard | NCAR | Professional Scientist | Lapse rate investigation  | dhoward@ucar.edu |
-| Susan Howard | Earth and Space Research  | Professional Scientist  | ICESat2 | showard@esr.edu |
-| Miles L | Lakeside School | Citizen Scientist | Lapse rate/ML investigation| MilesL25@lakesideschool.org |
-| Jeffrey Spencer | Region of Education #17 | Scientist/Educator | Sensor Deployment/Citizen Science | spencerj@roe17.org |
-| C. Max Stevens | University of Maryland | Professional Scientist | ICESat2 | maxstev@umd.edu |
-| Michael (Mike) Town | Earth and Space Research | Professional Scientist | Project Lead | michael.town@esr.org |
-| Felicity W | Lakeside School/Earth and Space Research | Citizen Scientist | Lapse rate investigation/Ecosystem health | felicityw26@lakesideschool.org |
+Click [here](./contributors.md) for a list of our contributors.
 
 ### Questions We are Asking (please help us ask more!)
 - What are Mount Baker temperatures and lapse rates?
