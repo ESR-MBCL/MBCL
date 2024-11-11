@@ -6,6 +6,7 @@ These sites have been stable since the network started in July 2018. The only ch
 **Figure 1.** Measurement sites and list of iButtons at each site for 2018-2019.
 
 ### Table 1. MBCL Site images and data.
+
 | Site | iButton Description/image | Link to Data |
 |-----|-----|-----|
 | 1 | ![1_Buried](./images/Site_1_Buried.png "1_Buried") | [1_Buried](./figures/felicityHtml/1_buried.html) |
