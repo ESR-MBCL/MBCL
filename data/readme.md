@@ -3,9 +3,9 @@
 | Site | iButton Description/image | Link to Data |
 |-----|-----|-----|
 | 1 | ![1_Buried](./images/Site_1_Buried.png "1_Buried") | [1_Buried](./figures/felicityHtml/1_buried/1_buried.html) |
-| 1 | ![1_Shaded](./images/Site_1_Shaded.png "1_Shaded") | [1_Buried](./figures/felicityHtml/1_shaded/1_shaded.html) |
+| 1 | ![1_Shaded](./images/Site_1_Shaded.png "1_Shaded") | [1_Shaded](./figures/felicityHtml/1_shaded/1_shaded.html) |
 | 1 | Exposed 50 | [Exposed 50](./figures/felicityHtml/1_exposed_050/1_exposed_050.html) |
-| 1 | ![1_Exposed_150](./images/Site_1_Exposed.png "1_Exposed") |[1_Exposed](./figures/felicityHtml/1_exposed_150/1_exposed_150.html) |
+| 1 | ![1_Exposed_150](./images/Site_1_Exposed.png "1_Exposed") |[1_Exposed_150](./figures/felicityHtml/1_exposed_150/1_exposed_150.html) |
 | 1 | Exposed 163 | [Exposed 163](./figures/felicityHtml/1_exposed_163/1_exposed_163.html) |
 | 1 | Exposed 190 | [Exposed 190](./figures/felicityHtml/1_exposed_190/1_exposed_190.html) |
 | 1 | Exposed 200 | [Exposed 200](./figures/felicityHtml/1_exposed_200/1_exposed_200.html) |
