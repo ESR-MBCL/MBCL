@@ -4,7 +4,7 @@
 |-----|-----|-----|
 | 1 | ![1_Buried](./images/Site_1_Buried.png "1_Buried") | [1_Buried](./figures/felicityHtml/1_buried.html) |
 | 1 | ![1_Shaded](./images/Site_1_Shaded.png "1_Shaded") | [1_Shaded](./figures/felicityHtml/1_shaded.html) |
-| 1 | Exposed 50 | [Exposed 50](./figures/felicityHtml/1_exposed_050/1_exposed_050.html) |
+| 1 | Exposed 50 | [1_Exposed 50](./figures/felicityHtml/1_exposed_050/1_exposed_050.html) |
 | 1 | ![1_Exposed_150](./images/Site_1_Exposed.png "1_Exposed") |[1_Exposed_150](./figures/felicityHtml/1_exposed_150.html) |
 | 1 | Exposed 163 | [Exposed 163](./figures/felicityHtml/1_exposed_163.html) |
 | 1 | Exposed 190 | [Exposed 190](./figures/felicityHtml/1_exposed_190.html) |
