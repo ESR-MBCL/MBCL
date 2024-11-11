@@ -1,6 +1,6 @@
  # MBCL data by site location
 
-| Site | iButton Description/link to data | image |
+| Site | iButton Description/image | Link to Data |
 |-----|-----|-----|
 | 1 | ![1_Buried](./images/Site_1_Buried.png "1_Buried") | [Buried](./figures/html/1_buried/1_buried.html) |
 | 1 | ![1_Exposed](./images/Site_1_Exposed.png "1_Exposed") |[Exposed 50](./figures/html/1_exposed_050/1_exposed_050.html) |
