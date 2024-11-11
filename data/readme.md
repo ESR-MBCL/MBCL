@@ -2,9 +2,9 @@
 
 | Site | iButton Description/image | Link to Data |
 |-----|-----|-----|
-| 1 | ![1_Buried](./images/Site_1_Buried.png "1_Buried") | ![Buried](./figures/html/1_buried/1_buried.html) |
-| 1 | ![1_Exposed](./images/Site_1_Exposed.png "1_Exposed") |[Exposed 50](./figures/html/1_exposed_050/1_exposed_050.html) |
-| 1 | ![1_Buried](./images/Site_1_Shaded.png "1_Buried") | [Exposed 100](./figures/html/1_exposed_100/1_exposed_100.html) |
+| 1 | ![1_Buried](./images/Site_1_Buried.png "1_Buried") | [1_Buried](./figures/html/1_buried/1_buried.html) |
+| 1 | ![1_Exposed](./images/Site_1_Exposed.png "1_Exposed") |[1_Exposed](./figures/html/1_exposed_050/1_exposed_050.html) |
+| 1 | ![1_Buried](./images/Site_1_Shaded.png "1_Buried") | [1_Buried](./figures/html/1_exposed_100/1_exposed_100.html) |
 | 1 | [Exposed 150](./figures/html/1_exposed_150/1_exposed_150.html) |
 | 1 | [Exposed 163](./figures/html/1_exposed_163/1_exposed_163.html) |
 | 1 | [Exposed 190](./figures/html/1_exposed_190/1_exposed_190.html) |
