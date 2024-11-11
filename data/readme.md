@@ -2,7 +2,7 @@
 
 | Site | iButton Description/link to data | image |
 |-----|-----|-----|
-| 1 | ![MBCL_Overview](./images/sites/Site_1_Buried.png "1_Buried") |[Buried](./figures/html/1_buried/1_buried.html) |
+| 1 | ![1_Buried](./images/Site_1_Buried.png "1_Buried") |[Buried](./figures/html/1_buried/1_buried.html) |
 | 1 | [Exposed 50](./figures/html/1_exposed_050/1_exposed_050.html) | image | 
 | 1 | [Exposed 100](./figures/html/1_exposed_100/1_exposed_100.html) | image | 
 | 1 | [Exposed 150](./figures/html/1_exposed_150/1_exposed_150.html) | image | 
