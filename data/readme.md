@@ -26,5 +26,5 @@ These sites have been stable since the network started in July 2018. The only ch
 | 5 | ![5_West_Buried](./images/Site_5_West_Buried.png "1_Buried") | [5_West Buried](./figures/felicityHtml/5_west_buried.html) |
 | 6 | ![6_Buried](./images/Site_6_Buried.png "1_Buried") | [6_Buried](./figures/felicityHtml/6_buried.html) |
 | 7 | 7 Buried | [7_Buried](./figures/felicityHtml/7_buried.html) | 
-| 8 | 8 Buried | [8_Buried](./figures/felicityHtml/8_buried.html) | 
+| 8 | 8 Buried | No data have been recovered from this site... yet!| 
 | 9 | 9 Buried | [9_Buried](./figures/felicityHtml/9_buried.html) |
