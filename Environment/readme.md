@@ -29,8 +29,6 @@ For example, some of the plants in the meadow may have been exposed to temperatu
 
 ### Conclusion
 
-Project Overview: Analyzing Temperature Thresholds of Plants on Mount Baker
-
 Understanding these temperature dynamics is crucial for anticipating the long-term effects of climate change on the ecosystems of Mount Baker. Continued monitoring and analysis are needed to track these changes over time and to inform conservation efforts aimed at protecting these vital habitats.
 
 Through this project, we hope to contribute valuable data to the ongoing research on climate change impacts and provide a clearer picture of how warming temperatures are reshaping the natural world.
