@@ -19,7 +19,7 @@ Each of these plants has specific temperature ranges in which they are able to g
 | Plant | Link to Data Graph | Link to Data Table|
 |-----|-----|-----|
 | Heather | [Heather_Graph](./Heather/Heather_1_shaded_graph.html) | [Heather_Table](./Heather/Heather_1_shaded_table.html) |
-| White Heather | [White_Heather_Graph](./White_Heather/WhiteHeather_1_shaded_graph.html) | [White_Heather_Table](./White_Heather/WhiteHeather_1_shaded_table.html) |
+| White Mountain Heather | [White_Mountain_Heather_Graph](./White_Heather/WhiteHeather_1_shaded_graph.html) | [White_Mountain_Heather_Table](./White_Heather/WhiteHeather_1_shaded_table.html) |
 | Bog Laurel | [Bog_Laurel_Graph](./Bog_Laurel/Bog_Laurel_graph.html) | [Bog_Laurel_Table](./Bog_Laurel/Bog_Laurel_table.html) |
 | Stream Violet | [Stream_Violet_Graph](./Stream_Violet/Stream_Violet_graph.html) | [Stream_Violet_Table](./Stream_Violet/Stream_Violet_table.html) |
 
