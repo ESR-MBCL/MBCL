@@ -29,7 +29,7 @@ For example, some of the plants in the meadow may have been exposed to temperatu
 
 ### Conclusion
 
-Understanding these temperature dynamics is crucial for anticipating the long-term effects of climate change on the ecosystems of Mount Baker. Continued monitoring and analysis are needed to track these changes over time and to inform conservation efforts aimed at protecting these vital habitats.
+Understanding these temperature dynamics is crucial for anticipating the long-term effects of climate change on the ecosystems of Mount Baker. Our findings indicate that most of the plants are safe, as the temperature thresholds are rarely reached. However, it's important to emphasize that our data is limited to just five years. Continued monitoring and analysis are needed to track these changes over time and to inform conservation efforts aimed at protecting these vital habitats.
 
 Through this project, we hope to contribute valuable data to the ongoing research on climate change impacts and provide a clearer picture of how warming temperatures are reshaping the natural world.
 
