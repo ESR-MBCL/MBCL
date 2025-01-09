@@ -1,4 +1,5 @@
 # Temperature Impacts on the Environment of Mount Baker
+By Felicity Wang
 
 ### Project Overview
 The ecosystems on Mount Baker are intricately linked to the plant species that inhabit them. These plants play a critical role in maintaining the biodiversity and health of the region's environment. However, as global temperatures rise due to climate change, many plant species are experiencing shifts in their ability to survive and thrive. Temperature is a crucial factor in the growth, reproduction, and overall health of plants, and even small fluctuations can have significant impacts.
