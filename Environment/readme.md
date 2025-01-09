@@ -40,4 +40,9 @@ Understanding these temperature dynamics is crucial for anticipating the long-te
 
 Through this project, we hope to contribute valuable data to the ongoing research on climate change impacts and provide a clearer picture of how warming temperatures are reshaping the natural world.
 
+### Sources
 
+https://arcticwildlifeknowledge.com/arctic-bell-heather-cassiope-tetragona/ 
+https://www.picturethisai.com/wiki/Kalmia_polifolia.html 
+https://www.picturethisai.com/care/temperature/Viola_glabella.html 
+https://greg.app/white-heather-temperature/
