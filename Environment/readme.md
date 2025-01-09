@@ -43,6 +43,9 @@ Through this project, we hope to contribute valuable data to the ongoing researc
 ### Sources
 
 https://arcticwildlifeknowledge.com/arctic-bell-heather-cassiope-tetragona/
+
 https://www.picturethisai.com/wiki/Kalmia_polifolia.html
+
 https://www.picturethisai.com/care/temperature/Viola_glabella.html
+
 https://greg.app/white-heather-temperature/
