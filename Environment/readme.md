@@ -23,6 +23,7 @@ Each of these plants has specific temperature ranges in which they are able to g
 | White Mountain Heather | 30°C | [White_Mountain_Heather_Graph](./White_Heather/WhiteHeather_1_shaded_graph.html) | [White_Mountain_Heather_Table](./White_Heather/WhiteHeather_1_shaded_table.html) |
 | Bog Laurel | 35°C | [Bog_Laurel_Graph](./Bog_Laurel/Bog_Laurel_graph.html) | [Bog_Laurel_Table](./Bog_Laurel/Bog_Laurel_table.html) |
 | Stream Violet | 32°C | [Stream_Violet_Graph](./Stream_Violet/Stream_Violet_graph.html) | [Stream_Violet_Table](./Stream_Violet/Stream_Violet_table.html) |
+
 Table 1: Graphs and Tables representing how often threshold temperatures were reached from 2018-2023.
 
 The iButton data revealed temperature patterns throughout Schreiber’s Meadow, which we compared against the known temperature thresholds of the plants under study. By assessing how often temperatures exceeded or remained within the safe limits for each species, we gained insight into the potential impacts of rising temperatures on the local ecosystem.
