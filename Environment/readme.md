@@ -22,7 +22,7 @@ Each of these plants has specific temperature ranges in which they are able to g
 | Heather | 40°C | [Heather_Graph](./Heather/Heather_1_shaded_graph.html) | [Heather_Table](./Heather/Heather_1_shaded_table.html) |[White_Mountain_Heather_Table](./White_Heather/WhiteHeather_1_shaded_table.html) |
 | Bog Laurel | 35°C | [Bog_Laurel_Graph](./Bog_Laurel/Bog_Laurel_graph.html) | [Bog_Laurel_Table](./Bog_Laurel/Bog_Laurel_table.html) |
 | Stream Violet | 32°C | [Stream_Violet_Graph](./Stream_Violet/Stream_Violet_graph.html) | [Stream_Violet_Table](./Stream_Violet/Stream_Violet_table.html) |
-| White Mountain Heather | 30°C | [White_Mountain_Heather_Graph](./White_Heather/WhiteHeather_1_shaded_graph.html) | 
+| White Mountain Heather | 30°C | [White_Mountain_Heather_Graph](./White_Heather/WhiteHeather_1_shaded_graph.html) | [White_Mountain_Heather_Table](./White_Heather/WhiteHeather_1_shaded_table.html) |
 
 Table 1: Graphs and Tables representing how often threshold temperatures were reached from 2018-2023.
 
