@@ -26,7 +26,6 @@ The MBCL is a result of ongoing partnerships between several organizations (Tabl
  
 
 
-
 ### Contributors
 
 Click [here](./contributors.md) for a list of our contributors.
@@ -43,8 +42,19 @@ Click [here](./contributors.md) for a list of our contributors.
 - What is the seasonal snow height at Schriebers Meadow, on Mount Baker?
   - Can we connect this seasonal snow height to other more long-term measurements (e.g., regional SNOTEL stations)?  
 
-### Interactive Data
+### Data
+There is a lot that goes into deploying, collecting, cleaning, and munging the data for analysis. See [here](./dataQualityDataMunging.md) for a description of this process, along with links to figures and code. 
+
 Take a look at the [interactive data](./data/readme.md) we have curated so far. Inspired? Read on!
+
+### Analysis
+Some initial analysis has been performed on these data already. 
+
+#### Mount Baker Ecosystem Thresholds
+**Felicity W** (*Citizen Scientist*) has processed data from Schriebers Meadow to understand whether and for how long local flora are exposed to temperatures beyond their temperature established stress thresholds. See [here](./Environment/readme.md) for more.
+
+
+
 
 ### Interested in Contributing
 If you are interested in contributing or have any questions, please reach out to michael.town@esr.org.
