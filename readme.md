@@ -50,6 +50,19 @@ Take a look at the [interactive data](./data/readme.md) we have curated so far. 
 ### Analysis
 Some initial analysis has been performed on these data already. 
 
+#### Mount Baker Snow Depth Retrievals
+Noah L. led a short study successfully retrieving snow depth at Schriebers Meadow from temperature data collected on a 2.5 m snag. See his work [here](./ESR-SnowDepth.pdf).
+
+#### Mount Baker Snow Extent Retrievals
+Building on a series of other students' work (Tanvi G., Kimberly Y.), Zara Z. developed an extended time series of snow extent on the southern side of Mount Baker as a function of elevation. See her work [here](./products/poster_ASnowyStory.pdf).
+
+#### A Summary of the MBCL project: Motivation, Design, and Early Results (2022)
+Linked [here](./products/NWRA202204_MTown.pdf) is a presentation summarizing the MBCL as of April 2022. Included in this presentation are some motivation, design, and early results including snow extent retrievals and an extension of the Schriebers Meadow time series using routine regional data trained on a supervised machine learning OLS model. Citizen Science authors involved here are: Tanvi A., Tea F-S, Tanvi G., Kimberly Y. 
+
+#### An Update on the MBCL: Design, Partnerships, and Results (2023)
+Linked [here](./products/agu2023_mtbakerposter.pdf) is a presentation summarizing the MBCL as of December 2023. Included in this presentation are the design, partnerships, and updated results. The update results include improved snow extent and snow depth retrievals, as well as a summary of the extension of the Schriebers Meadow time series using routine regional data trained on a supervised machine learning OLS model. Citizen Science authors involved here are: Tanvi A., Tanvi G., Noah L., Zara Z.
+
+
 #### Mount Baker Ecosystem Thresholds
 **Felicity W** (*Citizen Scientist*) has processed data from Schriebers Meadow to understand whether and for how long local flora are exposed to temperatures beyond their temperature established stress thresholds. See [here](./Environment/readme.md) for more.
 
