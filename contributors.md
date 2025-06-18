@@ -22,12 +22,12 @@ Below is a list of folks that have contributed to this network since 2016, when 
 | Tea Freedman-Susskind | Citizen Scientist | iButton proof of concept | --- | 
 | Xander Fries | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Sky Gale | University of Washington | Professional Scientist | Lapse rate investigations | skycgale AT uw.edu |
-| Tanvi Ganapathy | Citizen Scientist | Snow extent retrieval proof of concept | --- |
+| Tanvi Ganapathy | Lakeside School | Citizen Scientist | Snow extent retrieval proof of concept | --- |
 | Phoebe Gates | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Reggie Hacker | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Ai-Li Hollander | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
-| Daniel Howard | NCAR | Professional Scientist | Lapse rate investigation | dhoward AT ucar.edu |
-| Susan Howard | Earth and Space Research | Professional Scientist | ICESat2 | showard AT esr.edu |
+| Daniel Howard | NCAR | Scientist | Lapse rate investigation | dhoward AT ucar.edu |
+| Susan Howard | Earth and Space Research | Scientist/Educator | ICESat2 | showard AT esr.edu |
 | Drew Kolenski | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Miles L | Lakeside School | Citizen Scientist | Lapse rate/ML investigation | MilesL25 AT lakesideschool.org |
 | Miles Lamble | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
@@ -39,8 +39,7 @@ Below is a list of folks that have contributed to this network since 2016, when 
 | Michael Nelson | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Logan O'Donnell | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Carl Osborne | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
-| Kaiden Park | Lakeside School | Citizen Scientist | Data organization and  |--- |
-
+| Kaiden Park | Lakeside School | Citizen Scientist | Data organization and solar radiation retrievals |--- |
 | Devin Parry | Lakeside School | Scientist/Educator | Mount Baker Guide | devin.parry  AT lakesideschool.org |
 | William Patrick | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Jimmy Porter | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
@@ -52,15 +51,15 @@ Below is a list of folks that have contributed to this network since 2016, when 
 | Jack Scott | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Logan Searl | Lakeside School | Educator | Mount Baker Guide | logan.searl  AT lakesideschool.org |
 | Mea Shelton | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
-| Jeffrey Spencer | Region of Education #17 | Scientist/Educator | Sensor Deployment/Citizen Science | spencerj AT roe17.org |
+| Jeffrey Spencer | Region of Education #17 | Scientist/Educator | Sensor Deployment/Citizen Science Experience Design | spencerj AT roe17.org |
 | Andy Stanciu | Lakeside School | Citizen Scientist | Solar radiation retrieval | --- |
 | C. Max Stevens | University of Maryland | Professional Scientist | ICESat2 | maxstev AT umd.edu |
 | Shepard Swaner | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Bryent Takayama | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
-| Alison Tan | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | no email |
+| Alison Tan | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Grace Theobald | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Mia Toll | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
-**| Michael (Mike) Town | Earth and Space Research | Professional Scientist | Project Lead | michael.town AT esr.org |**
+| **Michael (Mike) Town** | **Earth and Space Research** | **Scientist/Educator** | **Project Lead** | **michael.town AT esr.org** |
 | Sam  Traverse | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Felicity W | Lakeside School/Earth and Space Research | Citizen Scientist | Lapse rate investigation/Ecosystem health | felicityw26 AT lakesideschool.org |
 | Adam Walker | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
@@ -69,7 +68,7 @@ Below is a list of folks that have contributed to this network since 2016, when 
 | Sophia Yee | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Phillip Meader Yetter | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Derek Young | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
-|Allistair Yu | Lakeside School | Citizen Scientist| Solar radiation retrievals | --- |
+|Alistair Yu | Lakeside School | Citizen Scientist| Solar radiation retrievals | --- |
 |Isabelle Yuan | Lakeside School | Citizen Scientist|Mount Baker Lapse Rates | --- |
 
 
