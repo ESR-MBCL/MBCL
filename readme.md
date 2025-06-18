@@ -54,7 +54,7 @@ Some initial analysis has been performed on these data already. See below for ex
 **Noah L.** (*Citizen Scientist*) led a short study successfully retrieving snow depth at Schriebers Meadow from temperature data collected on a 2.5 m snag. See his work [here](./products/ESR-SnowDepth.pdf).
 
 #### Mount Baker Snow Extent Retrievals
-Building on a series of other *Citizen Scientist* work (**Tanvi G., Kimberly Y.**), **Zara Z.** (*Citizen Scientist*)  developed an extended time series of snow extent on the southern side of Mount Baker as a function of elevation. See her work [here](./products/poster_ASnowyStory.pdf).
+Building on a series of other *Citizen Scientist* work (**Tanvi G., Kimberly L.**), **Zara Z.** (*Citizen Scientist*)  developed an extended time series of snow extent on the southern side of Mount Baker as a function of elevation. See her work [here](./products/poster_ASnowyStory.pdf).
 
 #### A Summary of the MBCL project: Motivation, Design, and Early Results (2022)
 Linked [here](./products/NWRA202204_MTown.pdf) is a presentation summarizing the MBCL as of April 2022. Included in this presentation are some motivation, design, and early results including snow extent retrievals and an extension of the Schriebers Meadow time series using routine regional data trained on a supervised machine learning OLS model. *Citizen Scientists*: **Tanvi A., Tea F-S, Tanvi G., Kimberly Y**. 
