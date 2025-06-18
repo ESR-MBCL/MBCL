@@ -6,7 +6,7 @@ Our mission is to inclusively and openly answer climate questions about Mount Ba
 
 ![MBCL_Overview](./images/MBCLprojectOverview.png "MBCL Overview")
 
-### What is the MBCL?
+### WHAT IS THE MBCL?
 
 This is a collaborative project in which citizen scientists and professional scientists co-create understanding about the climate of Mount Baker using a combination of *in situ* and satelitte measurements. We ask provide data and ask questions relevant to the hydrologic health and welfare of this important environmental system. 
 
@@ -26,11 +26,11 @@ The MBCL is a result of ongoing partnerships between several organizations (Tabl
  
 
 
-### Contributors
+### CONTRIBUTORS
 
 Click [here](./contributors.md) for a list of our contributors.
 
-### Questions We are Asking (please help us ask more!)
+### SCIENCE QUESTIONS (please help us ask more!)
 - What are Mount Baker temperatures and lapse rates?
   - Are important ecosystem thresholds being reached?
   - How have the lapse rates changed over time?
@@ -42,16 +42,16 @@ Click [here](./contributors.md) for a list of our contributors.
 - What is the seasonal snow height at Schriebers Meadow, on Mount Baker?
   - Can we connect this seasonal snow height to other more long-term measurements (e.g., regional SNOTEL stations)?  
 
-### Data
+### DATA
 There is a lot that goes into deploying, collecting, cleaning, and munging the data for analysis. See [here](./dataQualityDataMunging.md) for a description of this process, along with links to figures and code. 
 
 Take a look at the [interactive data](./data/readme.md) we have curated so far. Inspired? Read on!
 
-### Analysis
-Some initial analysis has been performed on these data already. 
+### ANALYSIS
+Some initial analysis has been performed on these data already. See below for examples of co-creation between *Citizen Scientists* and *Professional Scientists*.
 
 #### Mount Baker Snow Depth Retrievals
-Noah L. led a short study successfully retrieving snow depth at Schriebers Meadow from temperature data collected on a 2.5 m snag. See his work [here](./ESR-SnowDepth.pdf).
+Noah L. led a short study successfully retrieving snow depth at Schriebers Meadow from temperature data collected on a 2.5 m snag. See his work [here](./products/ESR-SnowDepth.pdf).
 
 #### Mount Baker Snow Extent Retrievals
 Building on a series of other students' work (Tanvi G., Kimberly Y.), Zara Z. developed an extended time series of snow extent on the southern side of Mount Baker as a function of elevation. See her work [here](./products/poster_ASnowyStory.pdf).
@@ -65,7 +65,6 @@ Linked [here](./products/agu2023_mtbakerposter.pdf) is a presentation summarizin
 
 #### Mount Baker Ecosystem Thresholds
 **Felicity W** (*Citizen Scientist*) has processed data from Schriebers Meadow to understand whether and for how long local flora are exposed to temperatures beyond their temperature established stress thresholds. See [here](./Environment/readme.md) for more.
-
 
 
 
