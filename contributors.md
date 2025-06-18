@@ -20,11 +20,11 @@ Below is a list of folks that have contributed to this network since 2016, when 
 | Stella Dull | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Bobby Eleveld | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Jennifer Fitzgerald | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
-| Tea Freedman-Susskind | Citizen Scientist | iButton proof of concept | --- | 
+| Tea Freedman-Susskind | Lakeside School | Citizen Scientist | iButton proof of concept | --- | 
 | Xander Fries | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Sky Gale | University of Washington | Professional Scientist | Lapse rate investigations | skycgale AT uw.edu |
 | Tanvi Ganapathy | Lakeside School | Citizen Scientist | Snow extent retrieval proof of concept | --- |
-| Phoebe Gates | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
+| Phoebe G. | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Reggie Hacker | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Ai-Li Hollander | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Daniel Howard | NCAR | Scientist | Lapse rate investigation | dhoward AT ucar.edu |
