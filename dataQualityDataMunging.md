@@ -54,3 +54,16 @@ The handoff to the student group occurs at their bag check **one day before** th
 
 The sensors are annually deployed and collected at the same time (usually). As the sensors are transported to and from the mountain in the same bag, their temperatures should be very close to each other prior to deployment and after collection. If collection happens after 362.7 days, then the sensors will time out - so there would be no indication of when they were all put in the bag together.
 
+##### Identification of deployment and collection dates
+Below we generate a list of the deployment and collection dates. These are then cross-referenced with the dates from the field logbooks. 
+
+The following information is useful in this exercise:
+1. Sensors are transported together in a bag (full of smaller bags)
+2. Sensors are deployed completely by three days after arrival to Schriebers Meadow (the first deployment site)
+3. Sensors have an accuracy of approximately +/- 1C. 
+4. Sensors tend to fill completely before collection.
+
+
+
+
+

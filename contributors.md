@@ -35,6 +35,7 @@ Below is a list of folks that have contributed to this network since 2016, when 
 | Mira Lamble | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Noah Lisin | Lakeside School | Citizen Scientist | Snow depth retrievals/Data organization | --- |
 |Kimberly Liu | Lakeside School | Citizen Scientist| Snow extent retrievals| --- |
+| Ken Mankoff| NASA | Scientist | Scientific Advisor | --- |
 | Jennifer Mapes | Lakeside School | Educator | Mount Baker Experiment | --- |
 | Charlie Martinez | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Chip Mehring | Lakeside School | Educator Emeritus | Mount Baker Field Logistics/Experiment Design/Sage | --- |
