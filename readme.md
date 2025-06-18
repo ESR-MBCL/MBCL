@@ -84,3 +84,8 @@ To acknowledge this land we share, study, and value is to critically reflect on 
 displacement, violence, and loss of land, and to recognize our place in that history.
 We offer this acknowledgement as an important step in honoring the relationship with land we
 share, and a call towards further learning and action.
+
+### Sponsors
+This work has received generous support from **Ballard Data Science**, **The Douchas-Nolan Fund** through the **San Diego Foundation**, and **Earth and Space Research**
+
+If you would like to donate, please click [here](https://www.esr.org/support-esr/)

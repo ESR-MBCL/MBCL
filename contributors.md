@@ -5,6 +5,7 @@ Below is a list of folks that have contributed to this network since 2016, when 
 | Alexander Albrecht | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Tanvi Anand | Tesla High School | Citizen Scientist | ML Temperature Time Series Extension | --- |
 | Colman Bashore | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
+| Greta Block | Lakeside School | Educator | Mount Baker Field Logistics | --- |
 | Mila Borowski | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Elizabeth Bowen | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Anne Elise Bradford | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
@@ -34,7 +35,9 @@ Below is a list of folks that have contributed to this network since 2016, when 
 | Mira Lamble | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Noah Lisin | Lakeside School | Citizen Scientist | Snow depth retrievals | --- |
 |Kimberly Liu | Lakeside School | Citizen Scientist| Snow extent retrievals| --- |
+| Jennifer Mapes | Lakeside School | Educator | Mount Baker Experiment | --- |
 | Charlie Martinez | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
+| Chip Mehring | Lakeside School | Educator Emeritus | Mount Baker Field Logistics/Experiment Design/Sage | --- |
 | Skye Milne | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Michael Nelson | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Logan O'Donnell | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
@@ -43,7 +46,7 @@ Below is a list of folks that have contributed to this network since 2016, when 
 | Devin Parry | Lakeside School | Scientist/Educator | Mount Baker Guide | devin.parry  AT lakesideschool.org |
 | William Patrick | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Jimmy Porter | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
-| Jon Purcell | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
+| Jon Purcell | Lakeside ProfessionalSchool | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Reagan Ricker | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Armando Romero | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
 | Miles Schuler | Lakeside School | Citizen Scientist | Mount Baker Fieldwork | --- |
@@ -73,3 +76,8 @@ Below is a list of folks that have contributed to this network since 2016, when 
 
 
 NOTE: If you believe your name should be on this list but is not, please contact Michael Town and we will add you! 
+
+### Sponsors
+This work has received generous support from **Ballard Data Science**, **The Douchas-Nolan Fund** through the **San Diego Foundation**, and **Earth and Space Research**
+
+If you would like to donate, please click [here](https://www.esr.org/support-esr/)
