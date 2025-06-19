@@ -63,6 +63,15 @@ The following information is useful in this exercise:
 3. Sensors have an accuracy of approximately +/- 1C. 
 4. Sensors tend to fill completely before collection.
 
+Table 1 shows the 'clean' data start and stop dates based only on how the data appear, and not according to the logbooks. We cross-reference with the logbook to choose the most conservative time range for analysis.
+
+Table 1. 'Clean' data time ranges (start and stop) for iButton data on Mount Baker.
+| Field Season    | Start | Stop | Notes|
+| ----------- | ----------- | ----------- |----------- |
+| 2018-2019   |        |
+| Paragraph   | Text        |
+
+
 The following figures show all temperature sensors from the beginning and end of each field deployment, along with the standard deviation of all temperature sensors. Deployments and collection almost always occurred at the same time, and in July.
 
 
