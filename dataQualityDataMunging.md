@@ -70,93 +70,140 @@ The following figures show all temperature sensors from the beginning and end of
 ![Temperatures Deployment, July 2018](./images/startStopFigures/MBCL_Temperatures_beg_2018-2019.jpg "Temperatures Deployment, July 2018")
 
 **Figure 1.** *All temperatures during deployment of sensors during July 2018.*
+<br />
+<br />
 
 ![Tstd Deployment, July 2018](./images/startStopFigures/STD_julyBeg_2018-2019.jpg "Tstd Deployment, July 2018")
 
 **Figure 2.** *Standard deviation of temperatures during deployment of sensors, July 2018.*
+<br />
+<br />
 
 ![Temperatures Collection, July 2018](./images/startStopFigures/MBCL_Temperatures_end_2018-2019.jpg "Temperatures Collection, July 2018")
 
 **Figure 3.** *All temperatures during collection of sensors, July 2019.*
+<br />
+<br />
 
 ![Tstd Collection, July 2019](./images/startStopFigures/STD_julyEnd_2018-2019.jpg "Tstd Collection, July 2019")
 
 **Figure 4.** *Standard deviation of temperatures during collection of sensors, July 2019.*
+<br />
+<br />
 
 ![Temperatures Deployment, July 2019](./images/startStopFigures/MBCL_Temperatures_beg_2019-2020.jpg "Temperatures Deployment, July 2019")
 
 **Figure 5.** *All temperatures during deployment of sensors during July 2019.*
+<br />
+<br />
 
 ![Tstd Deployment, July 2019](./images/startStopFigures/STD_julyBeg_2019-2020.jpg "Tstd Deployment, July 2019")
 
 **Figure 6.** *Standard deviation of temperatures during deployment of sensors, July 2019.*
+<br />
+<br />
 
 ![Temperatures Collection, July 2019](./images/startStopFigures/MBCL_Temperatures_end_2019-2020.jpg "Temperatures Collection, July 2019")
 
 **Figure 8.** *All temperatures during collection of sensors, July 2020.*
+<br />
+<br />
 
 ![Tstd Collection, July 2019](./images/startStopFigures/STD_julyEnd_2019-2020.jpg "Tstd Collection, July 2020")
 
 **Figure 8.** *Standard deviation of temperatures during collection of sensors, July 2019.*
+<br />
+<br />
 
 ![Temperatures Deployment, July 2020](./images/startStopFigures/MBCL_Temperatures_beg_2020-2021.jpg "Temperatures Deployment, July 2020")
 
 **Figure 9.** *All temperatures during deployment of sensors during July 2020.*
+<br />
+<br />
 
 ![Tstd Deployment, July 2018](./images/startStopFigures/STD_julyBeg_2020-2021.jpg "Tstd Deployment, July 2018")
 
 **Figure 10.** *Standard deviation of temperatures during deployment of sensors, July 2020.*
+<br />
+<br />
 
 ![Temperatures Collection, July 2018](./images/startStopFigures/MBCL_Temperatures_end_2020-2021.jpg "Temperatures Collection, July 2018")
 
 **Figure 11.** *All temperatures during collection of sensors, July 2021.*
+<br />
+<br />
 
 ![Tstd Collection, July 2019](./images/startStopFigures/STD_julyEnd_2020-2021.jpg "Tstd Collection, July 2021")
 
 **Figure 12.** *Standard deviation of temperatures during collection of sensors, July 2021.*
+<br />
+<br />
 
 
 ![Temperatures Deployment, July 2021](./images/startStopFigures/MBCL_Temperatures_beg_2021-2022.jpg "Temperatures Deployment, July 2021")
 
 **Figure 13.** *All temperatures during deployment of sensors during July 2021.*
+<br />
+<br />
 
 ![Tstd Deployment, July 2021](./images/startStopFigures/STD_julyBeg_2021-2022.jpg "Tstd Deployment, July 2021")
 
 **Figure 14.** *Standard deviation of temperatures during deployment of sensors, July 2021.*
+<br />
+<br />
 
 ![Temperatures Collection, July 2022](./images/startStopFigures/MBCL_Temperatures_end_2021-2022.jpg "Temperatures Collection, July 2022")
 
 **Figure 15.** *All temperatures during collection of sensors, July 2022.*
+<br />
+<br />
 
 ![Tstd Collection, July 2022](./images/startStopFigures/STD_julyEnd_2021-2022.jpg "Tstd Collection, July 2022")
 
 **Figure 16.** *Standard deviation of temperatures during collection of sensors, July 2022.*
+<br />
+<br />
 
-
+![Temperatures Deployment, July 2022](./images/startStopFigures/MBCL_Temperatures_beg_2022-2023.jpg "Temperatures Deployment, July 2022")
 **Figure 17.** *All temperatures during deployment of sensors during July 2022.*
+<br />
+<br />
 
 ![Tstd Deployment, July 2022](./images/startStopFigures/STD_julyBeg_2022-2023.jpg "Tstd Deployment, July 2022")
 
 **Figure 18.** *Standard deviation of temperatures during deployment of sensors, July 2022.*
+<br />
+<br />
 
 ![Temperatures Collection, July 2023](./images/startStopFigures/MBCL_Temperatures_end_2022-2023.jpg "Temperatures Collection, July 2023")
 
 **Figure 19.** *All temperatures during collection of sensors, July 2023.*
+<br />
+<br />
 
 ![Tstd Collection, July 2023](./images/startStopFigures/STD_julyEnd_2022-2023.jpg "Tstd Collection, July 2023")
 
 **Figure 20.** *Standard deviation of temperatures during collection of sensors, July 2023.*
+<br />
+<br />
 
+![Temperatures Deployment, July 2023](./images/startStopFigures/MBCL_Temperatures_beg_2023-2024.jpg "Temperatures Deployment, July 2023")
 
 **Figure 21.** *All temperatures during deployment of sensors during July 2023.*
+<br />
+<br />
 
 ![Tstd Deployment, July 2023](./images/startStopFigures/STD_julyBeg_2023-2024.jpg "Tstd Deployment, July 2023")
 
 **Figure 22.** *Standard deviation of temperatures during deployment of sensors, July 2023.*
+<br />
+<br />
 
 ![Temperatures Collection, July 2024](./images/startStopFigures/MBCL_Temperatures_end_2023-2024.jpg "Temperatures Collection, July 2024")
 
 **Figure 23.** *All temperatures during collection of sensors, July 2024.*
+<br />
+<br />
 
 ![Tstd Collection, July 2024](./images/startStopFigures/STD_julyEnd_2023-2024.jpg "Tstd Collection, July 2024")
 
