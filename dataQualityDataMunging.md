@@ -78,7 +78,7 @@ The following figures show all temperature sensors from the beginning and end of
 
 ![Temperatures Deployment, July 2018](./images/startStopFigures/MBCL_Temperatures_beg_2018-2019.jpg "Temperatures Deployment, July 2018")
 
-**Figure 1.** *All temperatures during deployment of sensors during July 2018.*
+**Figure 1.** *All temperatures during deployment of sensors during July 2018. Recorded date of sensor deployment is marked by a gray 'o'.*
 <br />
 <br />
 
@@ -90,7 +90,7 @@ The following figures show all temperature sensors from the beginning and end of
 
 ![Temperatures Collection, July 2018](./images/startStopFigures/MBCL_Temperatures_end_2018-2019.jpg "Temperatures Collection, July 2018")
 
-**Figure 3.** *All temperatures during collection of sensors, July 2019.*
+**Figure 3.** *All temperatures during collection of sensors, July 2019. Recorded date of sensor collection is marked by a gray 'o'.*
 <br />
 <br />
 
@@ -102,7 +102,7 @@ The following figures show all temperature sensors from the beginning and end of
 
 ![Temperatures Deployment, July 2019](./images/startStopFigures/MBCL_Temperatures_beg_2019-2020.jpg "Temperatures Deployment, July 2019")
 
-**Figure 5.** *All temperatures during deployment of sensors during July 2019.*
+**Figure 5.** *All temperatures during deployment of sensors during July 2019. Recorded date of sensor deployment is marked by a gray 'o'.*
 <br />
 <br />
 
@@ -114,7 +114,7 @@ The following figures show all temperature sensors from the beginning and end of
 
 ![Temperatures Collection, July 2019](./images/startStopFigures/MBCL_Temperatures_end_2019-2020.jpg "Temperatures Collection, July 2019")
 
-**Figure 8.** *All temperatures during collection of sensors, July 2020.*
+**Figure 8.** *All temperatures during collection of sensors, July 2020. Recorded date of sensor collection is marked by a gray 'o'.*
 <br />
 <br />
 
@@ -126,7 +126,7 @@ The following figures show all temperature sensors from the beginning and end of
 
 ![Temperatures Deployment, July 2020](./images/startStopFigures/MBCL_Temperatures_beg_2020-2021.jpg "Temperatures Deployment, July 2020")
 
-**Figure 9.** *All temperatures during deployment of sensors during July 2020.*
+**Figure 9.** *All temperatures during deployment of sensors during July 2020. Recorded date of sensor deployment is marked by a gray 'o'.*
 <br />
 <br />
 
@@ -138,7 +138,7 @@ The following figures show all temperature sensors from the beginning and end of
 
 ![Temperatures Collection, July 2018](./images/startStopFigures/MBCL_Temperatures_end_2020-2021.jpg "Temperatures Collection, July 2018")
 
-**Figure 11.** *All temperatures during collection of sensors, July 2021.*
+**Figure 11.** *All temperatures during collection of sensors, July 2021. Recorded date of sensor collection is marked by a gray 'o'.*
 <br />
 <br />
 
@@ -151,7 +151,7 @@ The following figures show all temperature sensors from the beginning and end of
 
 ![Temperatures Deployment, July 2021](./images/startStopFigures/MBCL_Temperatures_beg_2021-2022.jpg "Temperatures Deployment, July 2021")
 
-**Figure 13.** *All temperatures during deployment of sensors during July 2021.*
+**Figure 13.** *All temperatures during deployment of sensors during July 2021. Recorded date of sensor deployment is marked by a gray 'o'.*
 <br />
 <br />
 
@@ -163,7 +163,7 @@ The following figures show all temperature sensors from the beginning and end of
 
 ![Temperatures Collection, July 2022](./images/startStopFigures/MBCL_Temperatures_end_2021-2022.jpg "Temperatures Collection, July 2022")
 
-**Figure 15.** *All temperatures during collection of sensors, July 2022.*
+**Figure 15.** *All temperatures during collection of sensors, July 2022. Recorded date of sensor collection is marked by a gray 'o'.*
 <br />
 <br />
 
@@ -174,7 +174,7 @@ The following figures show all temperature sensors from the beginning and end of
 <br />
 
 ![Temperatures Deployment, July 2022](./images/startStopFigures/MBCL_Temperatures_beg_2022-2023.jpg "Temperatures Deployment, July 2022")
-**Figure 17.** *All temperatures during deployment of sensors during July 2022.*
+**Figure 17.** *All temperatures during deployment of sensors during July 2022. Recorded date of sensor deployment is marked by a gray 'o'.*
 <br />
 <br />
 
@@ -186,7 +186,7 @@ The following figures show all temperature sensors from the beginning and end of
 
 ![Temperatures Collection, July 2023](./images/startStopFigures/MBCL_Temperatures_end_2022-2023.jpg "Temperatures Collection, July 2023")
 
-**Figure 19.** *All temperatures during collection of sensors, July 2023.*
+**Figure 19.** *All temperatures during collection of sensors, July 2023. Recorded date of sensor collection is marked by a gray 'o'.*
 <br />
 <br />
 
@@ -198,7 +198,7 @@ The following figures show all temperature sensors from the beginning and end of
 
 ![Temperatures Deployment, July 2023](./images/startStopFigures/MBCL_Temperatures_beg_2023-2024.jpg "Temperatures Deployment, July 2023")
 
-**Figure 21.** *All temperatures during deployment of sensors during July 2023.*
+**Figure 21.** *All temperatures during deployment of sensors during July 2023. Recorded date of sensor deployment is marked by a gray 'o'.*
 <br />
 <br />
 
@@ -210,7 +210,7 @@ The following figures show all temperature sensors from the beginning and end of
 
 ![Temperatures Collection, July 2024](./images/startStopFigures/MBCL_Temperatures_end_2023-2024.jpg "Temperatures Collection, July 2024")
 
-**Figure 23.** *All temperatures during collection of sensors, July 2024.*
+**Figure 23.** *All temperatures during collection of sensors, July 2024. Recorded date of sensor collection is marked by a gray 'o'.*
 <br />
 <br />
 
