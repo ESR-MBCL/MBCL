@@ -66,7 +66,8 @@ Linked [here](./products/agu2023_mtbakerposter.pdf) is a presentation summarizin
 #### Mount Baker Ecosystem Thresholds
 **Felicity W** (*Citizen Scientist*) has processed data from Schriebers Meadow to understand whether and for how long local flora are exposed to temperatures beyond their temperature established stress thresholds. See [here](./Environment/readme.md) for more.
 
-
+### Tricky installations
+Two of the trickiest installations are at the Crater Rim and the Summit. Read about what to do if you find one of those installations [here](./MBCLInstallations.md "MBCL Installations").
 
 ### YOU CAN CONTRIBUTE
 If you are interested in contributing or have any questions, please reach out to michael.town@esr.org.
