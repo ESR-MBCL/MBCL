@@ -36,4 +36,4 @@ We can't do much to prevent the impacts of erosion up here. This location is con
 
 
 ## Thank you!
-Thanks so much for your support. This citizen science project would not exist without the interest and support of you and folks like you. Find more out about the MBCL, how to support us or get involved, [here](./readme.md "MBCL Homepage"). 
+Thanks so much for your support. This citizen science project would not exist without the interest and support of you and folks like you. Find more out about the MBCL, how to support us or get involved, [here](./readme.md). 

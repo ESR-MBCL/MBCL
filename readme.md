@@ -23,7 +23,7 @@ The MBCL is a result of ongoing partnerships between several organizations (Tabl
 | Adventure Data | *In situ* snow measurements |
 | Earth and Space Research | Lead institution, data analysis, citizen scientist education |
 | Lakeside School | *In situ* temperature measurement deployment and collection | 
- 
+| United State Forest Service | [Permitting](./docs/LettertoLakesideSchool2018.pdf) and use of hydrological data | 
 
 
 ### CONTRIBUTORS
@@ -67,7 +67,7 @@ Linked [here](./products/agu2023_mtbakerposter.pdf) is a presentation summarizin
 **Felicity W** (*Citizen Scientist*) has processed data from Schriebers Meadow to understand whether and for how long local flora are exposed to temperatures beyond their temperature established stress thresholds. See [here](./Environment/readme.md) for more.
 
 ### Tricky installations
-Two of the trickiest installations are at the Crater Rim and the Summit. Read about what to do if you find one of those installations [here](./MBCLInstallations.md "MBCL Installations").
+Two of the trickiest installations are at the Crater Rim and the Summit. Read about what to do if you find one of those installations [here](./MBCLInstallations.md).
 
 ### YOU CAN CONTRIBUTE
 If you are interested in contributing or have any questions, please reach out to michael.town@esr.org.
