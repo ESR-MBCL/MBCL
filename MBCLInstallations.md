@@ -23,7 +23,7 @@ We can't do much to prevent the impacts of erosion up here. However, if you do f
 The Mount Baker Summit receives a lot of visitors. Often our community will find human detritus on the mountain and scrupulously bring it down the mountain. *This installation is not detritus!* Please communicate with your party and others on the mountain what this installation is, and encourage folks to leave the installation if it seems secure.
 
 ### Summit sensor installation instructions
-
+Away from trafficked paths, hammer in the four pitons such that the placard is held tight against the soil surface. Bury the sensor 3 cm beneath the soil surface next to the piton to the upper left as you read the placard. Attach the thin radio wire from the sensor housing to the piton. Take a picture and share with us. Thank you!
 
 ## Mount Baker Crater Rim Installation
 
