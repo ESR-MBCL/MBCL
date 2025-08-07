@@ -33,7 +33,7 @@ This installation is possibly the most difficult measurement of our array. When 
 We can't do much to prevent the impacts of erosion up here. This location is constantly changing. It is a relatively dangerous to the rest of the high mountain environement that one may have experienced in summiting Mount Baker. Please do not search out this installation  
 
 ### Visitors
-
+We do not recommend trying to find this site. Most visitors will walk right by. If you happen to find this site, please do not disturb the installation unless it already happens to be loose. Then retrieve it and bring to us. Thank you!
 
 ## Thank you!
 Thanks so much for your support. This citizen science project would not exist without the interest and support of you and folks like you. Find more out about the MBCL, how to support us or get involved, [here](./readme.md). 
