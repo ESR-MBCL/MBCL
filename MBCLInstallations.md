@@ -25,7 +25,7 @@ The Mount Baker Summit receives a lot of visitors. Often our community will find
 ### Summit sensor installation instructions
 
 
-## Mount Baker Crater Installation
+## Mount Baker Crater Rim Installation
 
 This installation is possibly the most difficult measurement of our array. When snow free, the crater soil temperature provides a rare ground truth for this dynamic microclimate of the Mount Baker climate system. Since its inception, we've *never* recovered this sensor. It is unlikely that you will encounter this sensor. If you do, **please leave it in place *if it is secure*.** If it is not secure, **Do not resecure it.** Please collect and return to us! Thank you!
 
