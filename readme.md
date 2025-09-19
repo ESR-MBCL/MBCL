@@ -35,7 +35,7 @@ Click [here](./contributors.md) for a list of our contributors.
   - Are important ecosystem thresholds being reached?
   - How have the lapse rates changed over time?
   - How are these variables represented in Reanalysis or other products?
-  - See this poster by Felicity W. [here](.docs/Felicity_Wang_LSRI_Poster)
+  - See this poster by Felicity W. [here](./docs/Felicity_Wang_LSRI_Poster)
 - What are the temperature impacts on the ecosystem of Mount Baker?
   - click [here](./Environment/readme.md) for more information
 - What is the seasonal snow extent on Mount Baker?
